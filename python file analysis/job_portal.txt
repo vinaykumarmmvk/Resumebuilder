@@ -1,0 +1,68 @@
+job matcher
+------------------
+get resume
+get job description
+give percentage of match of user profile with job
+show missing skills
+show required skills in user profile
+----------
+user pastes the webpage link of open job position
+read webpage and search for job description and details
+analyze the webpage
+get resume or user skills 
+analyze user profile 
+show the detailed report of match percent, missing and added skills
+-----------------------------------------------------------
+company portal:
+
+get details:
+	company name
+	job sector
+	job title
+	skillset
+	location/country/address
+	job posted 
+	relevance
+	popularity
+
+show table with:
+	company name
+	about link
+	karrier link
+	job sector
+	job title
+	skillset
+	contact details(phone, email)
+	location/country/address
+	job description
+
+
+chatgpt:
+	get the above details seperated by semicolon or any other separator
+	refresh the database with the new details every 1 week or everyday
+	
+get the above details:
+	based on popularity
+	based on pay-scale
+	based on the revenue
+	based on number of job openings
+	based on 
+	based on job sector
+	based on country/location
+
+how can jobs be segregated?
+
+------------------------part 2-----------------------------------
+
+job portal:
+
+	get the job description and responsibilities from user.
+
+	from the user get the details like country, designation/sector
+
+	job open position
+	use chatgpt to show results also store result in database
+
+	Reccommend jobs the user based on user profile
+	get the job designation based on user experience/education background
+	better recommendation of job based on user skill set

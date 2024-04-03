@@ -1,0 +1,39 @@
+website builder website - webber
+-------------------------------part1-----------------------------------
+upload a docx file 
+analyze the docx file
+group 4to5 headers in one webpage/based on the content size like more lines less headers grouping
+search for home word if found make it as home page
+show suggested grouping of webpages
+enter website name
+allow user to customize the grouping - multiselect
+show menu bar names suggesstion
+heading of each page made as nav bar name
+headings are made as expanders
+allow user to edit names of nav bar links
+
+webber home 	- 
+get website name, upload docx, 
+number of webpages,
+suggest webpage name as 1st header with editable fields
+
+analyze docx and show suggestions and stuffs 
+		  once submitted redirect to title
+webber mywebsite- show created website - retrieve stored data and display
+webber login	- user authentication
+
+
+userId, fullname, username, email, password, lastlogin_date		-- users
+userId and website name, websiteId, created_date, updated_date		-- websites
+webpageId, webpageName, websiteId					-- webpages
+nav_barId, nav_barName, websiteId and webpageId				-- nav_bar   
+header_id, header name, content and webpageId 				-- headers
+
+userId, login_date, logout_date						-- login_details
+
+-------------------------------part2------------------------------------
+use an ai tool to analyze text - give user an option with better texts
+suggest based on the analysis - the division of webpages and its content
+put the data with an expander
+
+

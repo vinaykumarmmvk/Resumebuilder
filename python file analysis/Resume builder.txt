@@ -1,0 +1,88 @@
+1. Resume builder website
+--------------------------------
+part 1:
+--------
+Show form, 
+get form filled from the user 
+and then build a pdf/docx file of downloadable format.
+
+form:
+    Designation
+    breif in one sentence.(optional)
+
+    personal information:
+        First Name*
+        Last Name* / full name
+        Date of Birth
+        Nationality
+        Phone number
+        Email id*
+        LinkedIn
+        Address
+
+    Languages:
+    Add language button
+    Enter language
+    Select proficiency
+
+
+    Education:
+
+    Add button
+
+    School/university Name
+    program Name
+    duration from and to year
+    description
+
+
+    Experience:
+
+    Add experience button
+
+    Company Name
+    Title
+    Duration 
+    description
+
+
+    Skills:
+        text input and add skill button
+
+    profile image:
+        add image
+
+part 2:
+----------------
+flexible fields like add header
+add subheader
+add list
+add numbered list
+add link
+------------------------
+show preview
+
+Edit button to edit any text fields
+
+text input: to ask for any changes or any improvments needed
+
+please select field of improvments: 
+
+field name___ , 
+    font-style - dropdown, 
+    font-size ____ 
+    font-color _____
+    Bold checkbox
+    Italic checkbox
+    underline checkbox
+
+    profile picture: edit height width
+
+
+part 3:text to speech; speech to text 
+--------------------------------------------------------------
+welcome speech - "welcome to resume builder website"
+"Please tell me your details all at once for building resume"
+"please start with hallo resume builder"
+"speak retry to fill form again"
+"speak edit field name e.g edit address "

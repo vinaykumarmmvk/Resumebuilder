@@ -1,0 +1,34 @@
+docx to db
+
+https://pypi.org/project/python-doc/
+pip install python-doc
+
+https://pypi.org/project/python-docx/
+pip install python-docx
+
+
+https://github.com/python-openxml/python-docx/tree/master
+
+https://python-docx.readthedocs.io/en/latest/index.html
+
+to know :
+
+how to read and display image, 
+its caption, 
+table, 
+table of content , 
+list of figures,
+list of tables,
+headers and footers,
+pagenumbers, 
+
+
+
+
+
+
+
+
+
+
+excel to database

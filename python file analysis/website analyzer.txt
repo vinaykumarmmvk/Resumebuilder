@@ -1,0 +1,11 @@
+webpage analyzer
+-------------------------------------
+user pastes webpage link
+give a detailed report of about that webpage like:
+webpage about
+breif description about the webpage
+logo , navigation bar, header, footer
+
+get all the pages related to the website - show details about other webpage links
+number of people viewed the website 
+webpage root page
